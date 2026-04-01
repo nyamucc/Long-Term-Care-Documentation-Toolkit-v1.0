@@ -33,8 +33,4 @@ Consistent caregiver workflow
 
 - Scalable Multi‑Resident Design.
 The system supports:
-- Multiple residents
-- Multiple caregivers
-- Multiple months
-- Multiple facilities
-All without breaking formulas or requiring manual reconfiguration.
+Multiple residents, Multiple caregivers, Multiple months, Multiple facilities. All without breaking formulas or requiring manual reconfiguration.
