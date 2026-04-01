@@ -14,3 +14,27 @@ This toolkit includes:
 - A medication changes log
 - A resident profile sheet
 - A workflow that supports monthly continuity and long‑term scalability
+
+## Key Features
+
+- Dynamic Caregiver Dropdowns
+All caregiver selections across all sheets are linked to a single Named Range
+
+- Error‑Proof Data Validation
+Each caregiver column uses one unified rule applied to the entire column, ensuring consistent documentation and preventing broken validation.
+
+- Monthly Duplication Workflow
+Each month, the resident sheet is duplicated to preserve historical records and maintain compliance.
+This ensures:
+No overwritten data
+Clean monthly logs
+Easy auditing
+Consistent caregiver workflow
+
+- Scalable Multi‑Resident Design
+The system supports:
+- Multiple residents
+- Multiple caregivers
+- Multiple months
+- Multiple facilities
+All without breaking formulas or requiring manual reconfiguration.
