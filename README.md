@@ -26,10 +26,7 @@ Each caregiver column uses one unified rule applied to the entire column, ensuri
 - Monthly Duplication Workflow.
 Each month, the resident sheet is duplicated to preserve historical records and maintain compliance.
 This ensures:
-No overwritten data
-Clean monthly logs
-Easy auditing
-Consistent caregiver workflow
+No overwritten data, Clean monthly logs,Easy auditing,Consistent caregiver workflow
 
 - Scalable Multi‑Resident Design.
 The system supports:
