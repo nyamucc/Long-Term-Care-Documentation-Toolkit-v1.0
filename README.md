@@ -65,5 +65,6 @@ Tracks controlled medications with full accountability:
 - Qty @ end
 - Caregiver administering
 - Caregiver witness 
+
 Supports regulatory compliance and safe handling of narcotics.
 
