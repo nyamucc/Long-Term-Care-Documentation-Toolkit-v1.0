@@ -51,7 +51,7 @@ A full monthly MAR with:
 - Morning,Afternoon,Evening administration section 
 - Auto‑updating caregiver dropdowns
 
-  ### 3. Narcotics Log (Controlled Substances)
+### 3. Narcotics Log (Controlled Substances)
 Tracks controlled medications with full accountability:
 - Date
 - Shift
