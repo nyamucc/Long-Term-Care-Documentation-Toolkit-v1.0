@@ -50,3 +50,20 @@ A full monthly MAR with:
 - Daily administration columns 1–31
 - Morning,Afternoon,Evening administration section 
 - Auto‑updating caregiver dropdowns
+
+  ### 3. Narcotics Log (Controlled Substances)
+Tracks controlled medications with full accountability:
+- Date
+- Shift
+- Medication name
+- Strength
+- Received
+- Form
+- Qty @ start
+- Administered
+- Wasted
+- Qty @ end
+- Caregiver administering
+- Caregiver witness 
+Supports regulatory compliance and safe handling of narcotics.
+
