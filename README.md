@@ -42,3 +42,11 @@ A structured demographic and clinical overview for each resident, including:
 - Primary physician
 - Emergency contacts
 - Care notes
+
+### 2. MAR – Medication Administration Record
+A full monthly MAR with:
+- Medication name
+- Date prescribed
+- Daily administration columns 1–31
+- Morning,Afternoon,Evening administration section 
+- Auto‑updating caregiver dropdowns
