@@ -83,4 +83,30 @@ Daily clinical monitoring including:
 - High‑severity alert
 - Caregiver
 
+### 5. Hospital Visits & Schedules
+Tracks all external medical appointments:
+- Date
+- Visit type
+- Doctor
+- Transport arranged
+- Notes
+
+### 6. Incident Log
+Structured reporting for safety and compliance:
+- Date
+- Incident type
+- Description
+- Staff involved
+- Follow‑up actions
+- Notes
+
+### 7. Medication Changes Log
+Tracks all medication adjustments:
+- Date
+- Medication
+- Change type
+- Ordered by
+- Effective date
+- Staff trained
+- Notes
 
