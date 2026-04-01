@@ -68,3 +68,19 @@ Tracks controlled medications with full accountability:
 
 Supports regulatory compliance and safe handling of narcotics.
 
+### 4. Vitals & Behaviour Log
+Daily clinical monitoring including:
+- Date
+- Time
+- Temperature (°F)
+- Blood pressure (mmHg)
+- Heart rate
+- Respiratory rate
+- Blood sugar (mg/dl)
+- Mood / Behaviour
+- Trigger
+- Intervention
+- High‑severity alert
+- Caregiver
+
+
