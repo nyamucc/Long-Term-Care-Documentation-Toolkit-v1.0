@@ -31,3 +31,14 @@ No overwritten data, Clean monthly logs,Easy auditing,Consistent caregiver workf
 - Scalable Multi‑Resident Design.
 The system supports:
 Multiple residents, Multiple caregivers, Multiple months, Multiple facilities. All without breaking formulas or requiring manual reconfiguration.
+
+## Included Sheets (Toolkit Modules)
+
+### 1. Resident Profile
+A structured demographic and clinical overview for each resident, including:
+- Personal details
+- Diagnoses
+- Allergies
+- Primary physician
+- Emergency contacts
+- Care notes
